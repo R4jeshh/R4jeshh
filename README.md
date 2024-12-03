@@ -1,95 +1,23 @@
-# Hey, I'm **R4jeshh** 👨‍💻 
+<h1 align="center">Hi 👋, I'm Rajesh</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Welcome to my GitHub profile! I'm a **teenage developer** currently diving deep into the world of **web development**, **backend services**, and **automation**. I'm exploring **HTML**, **CSS**, **JavaScript**, **Node.js**, and **Python** to build impactful applications. My journey is all about learning, experimenting, and creating. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=r4jeshh&label=Profile%20views&color=0e75b6&style=flat" alt="r4jeshh" /> </p>
 
-## 🚀 **About Me:**
-- A **teenage developer** passionate about building useful apps and learning new technologies.
-- Focused on mastering **web technologies** (HTML, CSS, JavaScript) and **backend development** with **Node.js** and **Python**.
-- I'm always on the lookout for innovative projects and ways to automate tasks using **coding**.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r4jeshh" alt="r4jeshh" /></a> </p>
 
-## 🌱 **Technologies I'm Learning Right Now:**
-- **Frontend**:
-  - **HTML5** – Structuring the web beautifully.
-  - **CSS3** – Crafting responsive, modern web designs.
-  - **JavaScript** – Making the web interactive and dynamic.
-- **Backend**:
-  - **Node.js** – Building scalable backend solutions.
-  - **Python** – Exploring automation, scripting, and data manipulation.
-- **Tools & Platforms**:
-  - **VSCode**, **Git**, **GitHub**, **npm**, **Postman**
+- 🌱 I’m currently learning **Css,Javascript**
 
-## 💻 **Current Focus Areas:**
-- **Frontend Development**: Mastering the art of crafting smooth and responsive user interfaces.
-- **Backend Development**: Building API servers, databases, and automation scripts.
-- **Learning Algorithms & Problem Solving**: Improving my coding skills through algorithm challenges.
+- 📫 How to reach me **https://telegram.me/ImR4jesh**
 
-## 🔧 **Key Projects I’m Working On:**
-- **Portfolio Website**: Building my personal portfolio using HTML, CSS, and JavaScript to showcase my work.
-- **Weather App**: A weather forecasting web app with Node.js and an external API.
-- **Task Automation Bot**: Automating repetitive tasks using Python and Node.js to save time.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/im.r4jesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.r4jesh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/r4jeshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="r4jeshh" height="30" width="40" /></a>
+</p>
 
-## 📈 **GitHub Stats**  
-# Hey, I'm **R4jeshh** 👨‍💻 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-Welcome to my GitHub profile! I'm a **teenage developer** currently diving deep into the world of **web development**, **backend services**, and **automation**. I'm exploring **HTML**, **CSS**, **JavaScript**, **Node.js**, and **Python** to build impactful applications. My journey is all about learning, experimenting, and creating. 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r4jeshh&show_icons=true&locale=en&layout=compact" alt="r4jeshh" /></p>
 
-## 🚀 **About Me:**
-- A **teenage developer** passionate about building useful apps and learning new technologies.
-- Focused on mastering **web technologies** (HTML, CSS, JavaScript) and **backend development** with **Node.js** and **Python**.
-- I'm always on the lookout for innovative projects and ways to automate tasks using **coding**.
-
-## 🌱 **Technologies I'm Learning Right Now:**
-- **Frontend**:
-  - **HTML5** – Structuring the web beautifully.
-  - **CSS3** – Crafting responsive, modern web designs.
-  - **JavaScript** – Making the web interactive and dynamic.
-- **Backend**:
-  - **Node.js** – Building scalable backend solutions.
-  - **Python** – Exploring automation, scripting, and data manipulation.
-- **Tools & Platforms**:
-  - **VSCode**, **Git**, **GitHub**, **npm**, **Postman**
-
-## 💻 **Current Focus Areas:**
-- **Frontend Development**: Mastering the art of crafting smooth and responsive user interfaces.
-- **Backend Development**: Building API servers, databases, and automation scripts.
-- **Learning Algorithms & Problem Solving**: Improving my coding skills through algorithm challenges.
-
-## 🔧 **Key Projects I’m Working On:**
-- **Portfolio Website**: Building my personal portfolio using HTML, CSS, and JavaScript to showcase my work.
-- **Weather App**: A weather forecasting web app with Node.js and an external API.
-- **Task Automation Bot**: Automating repetitive tasks using Python and Node.js to save time.
-
-## 📈 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R4jeshh&show_icons=true&count_private=true&hide=prs&theme=dark)
-
-## 📫 **Connect with Me:** 
-[Telegram](https://telegram.me/ImR4jesh)
-  
----
-
-### 🛠️ **Some Open-Source Repositories to Explore**:
-- **My Coding Journey**: A collection of the projects I’ve worked on as I continue to learn.
-- **Challenges & Algorithms**: A repository for all the coding challenges and problems I solve along the way.
-
-I am **always open to collaboration** and love to learn from others. Don't hesitate to **open an issue** or **reach out** if you have any questions or just want to chat about tech!
-
-Let's **code, innovate, and grow** together! 🔥
-
----![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R4jeshh&show_icons=true&count_private=true&hide=prs&theme=dark)
-
-## 📫 **Connect with Me:** 
-[Telegram](https://telegram.me/ImR4jesh)
-  
----
-
-### 🛠️ **Some Open-Source Repositories to Explore**:
-- **My Coding Journey**: A collection of the projects I’ve worked on as I continue to learn.
-- **Challenges & Algorithms**: A repository for all the coding challenges and problems I solve along the way.
-
-I am **always open to collaboration** and love to learn from others. Don't hesitate to **open an issue** or **reach out** if you have any questions or just want to chat about tech!
-
-Let's **code, innovate, and grow** together! 🔥
-
----
-
-Thanks for checking out my profile! 😄
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r4jeshh&show_icons=true&locale=en" alt="r4jeshh" /></p>
