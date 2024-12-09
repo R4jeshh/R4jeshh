@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r4jeshh&label=Profile%20views&color=0e75b6&style=flat" alt="r4jeshh" /> </p>
 
-- 📫 How to reach me **https://telegram.me/ImR4jesh**
+- 📫 How to reach me **https://telegram.me/IM_R4JESH**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
