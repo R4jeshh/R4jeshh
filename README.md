@@ -7,7 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/im.r4jesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.r4jesh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/r4jeshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="r4jeshh" height="30" width="40" /></a>
 </p>
 
