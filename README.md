@@ -12,8 +12,7 @@ When I'm not coding, you can find me contributing to open-source projects, learn
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">  
 
 **Backend:**  
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">  
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">  
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">  
 
 ---
 
@@ -39,8 +38,8 @@ When I'm not coding, you can find me contributing to open-source projects, learn
 
 ## 🤝 Connect with Me  
 
-📧 **Telegram:** [imace09](https://t.me/imace09)  
-🐦 **Twitter:** [@r4jeshh](https://twitter.com/r4jeshh)  
+**Telegram:** [imace09](https://t.me/imace09)  
+**Twitter:** [@r4jeshh](https://twitter.com/r4jeshh)  
 **Instagram** : [R4jeshhh](https://instagram.com/r4jeshhh)
 
 ---
